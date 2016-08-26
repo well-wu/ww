@@ -1,2 +1,1 @@
-var a = 'aaaaaaaaaaaa';
-//解决了a的bug
+var a = 'a';
